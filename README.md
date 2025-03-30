@@ -46,8 +46,10 @@ Here's a walkthrough of implemented user stories:
 
 
 
+https://github.com/user-attachments/assets/6aa0475f-fb2f-41d2-a34e-ba99955bd421
 
-https://github.com/user-attachments/assets/142370fc-d50d-441b-b5e1-616543d5186a
+
+
 <img src='https://submissions.us-east-1.linodeobjects.com/web102/BFuf4BtO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
