@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [✅] **Application features a button that creates a new API fetch request on click and displays at least three attributes and an image obtained from the returned JSON data**
   - The type of attribute displayed for each image should be consistent across API calls (i.e. if you are using a cat API, and display the color, breed, and age in response to an initial API call, subsequent button clicks should also result in the color, breed, and age being displayed)
 - [✅] **Only one item/data from API call response is viewable at a time and at least one image is displayed per API call**
-  ✅- A single result of an API call is displayed at a time 
+  ✅- A single result of an API call is displayed at a time
   ✅- Displayed attributes should match the displayed image (i.e., if showing a picture of a Siamese cat and the attribute breed, the displayed breed should be 'Siamese' not 'Ragdoll' or another breed that doesn't match)
   ✅- There is at least one image per API call
 - [✅] **API call response results should appear random to the user**
