@@ -48,6 +48,7 @@ Here's a walkthrough of implemented user stories:
 
 
 https://github.com/user-attachments/assets/142370fc-d50d-441b-b5e1-616543d5186a
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/BFuf4BtO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
