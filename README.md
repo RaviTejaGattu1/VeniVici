@@ -45,7 +45,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://github.com/RaviTejaGattu1/VeniVici/blob/main/Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 https://github.com/user-attachments/assets/142370fc-d50d-441b-b5e1-616543d5186a
