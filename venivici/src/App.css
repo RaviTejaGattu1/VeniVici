@@ -1,0 +1,61 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.item-display {
+  margin: 20px 0;
+}
+
+.attributes {
+  margin-top: 10px;
+}
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
+
+.clickable.banned {
+  color: red;
+  text-decoration: line-through;
+}
+
+.ban-list {
+  margin-top: 20px;
+}
+
+.ban-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.ban-list li {
+  cursor: pointer;
+  margin: 5px 0;
+}
+
+.ban-list li:hover {
+  color: red;
+}
+
+.history-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.history-item {
+  text-align: center;
+}
+
